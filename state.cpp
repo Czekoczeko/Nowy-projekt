@@ -1,4 +1,5 @@
 //dp state
+Ver 1.0
 #include "stdafx.h"
 #include <cstdio>
 #include <cctype>
